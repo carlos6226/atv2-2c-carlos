@@ -1,0 +1,16 @@
+body {background-color: brown;
+}
+
+@media screen and (min-width:600px) {
+    .parte1 {color: blue;
+     font-size: 150%;
+    }
+
+    .parte2 {color: blue;
+        font-size: 150%;
+       }
+
+       .parte3 {color: blue;
+        font-size: 150%;
+       }
+}
