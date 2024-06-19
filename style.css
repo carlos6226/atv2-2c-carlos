@@ -5,19 +5,26 @@ body {background-color: brown;
     .parte1 {color: blue;
      font-size: 150%;
     }
+}
 
+
+    @media screen and (min-width:600px) {
     .parte2 {color: rgba(10, 233, 47, 0.637);
         font-size: 150%;
        }
+    }
 
+
+    @media screen and (min-width:600px) {
        .parte3 {color: rgb(166, 255, 0);
         font-size: 150%;
        }
+    }
 
 
 
 
-}
+
 
 .parte1 {border-color: blue;
          border-style: double;
