@@ -26,6 +26,10 @@ body {background-color: brown;
          border-width: 10px;
 }
 
+.parte1 {margin-left: 10%;}
+
+
+
 .parte2 {border-color: rgba(10, 233, 47, 0.637);
     border-style: double;
     border-width: 10px;
