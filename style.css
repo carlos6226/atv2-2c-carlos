@@ -23,7 +23,7 @@ body {background-color: brown;
 
 .parte1 {border-color: blue;
          border-style: double;
-         border-width: 10px;
+         border-width: 50px;
 }
 
 .parte1 {margin-left: 10%;}
@@ -32,7 +32,7 @@ body {background-color: brown;
 
 .parte2 {border-color: rgba(10, 233, 47, 0.637);
     border-style: double;
-    border-width: 10px;
+    border-width: 25px;
 }
 
 .parte3 {border-color: rgb(166, 255, 0);
