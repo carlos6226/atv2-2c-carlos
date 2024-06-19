@@ -6,10 +6,12 @@ body {background-color: brown;
      font-size: 150%;
     }
 
+    @media screen and (min-width:600px) {
     .parte2 {color: blue;
         font-size: 150%;
        }
 
+       @media screen and (min-width:600px) {
        .parte3 {color: blue;
         font-size: 150%;
        }
