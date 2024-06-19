@@ -6,13 +6,16 @@ body {background-color: brown;
      font-size: 150%;
     }
 
-    @media screen and (min-width:600px) {
     .parte2 {color: blue;
         font-size: 150%;
        }
 
-       @media screen and (min-width:600px) {
        .parte3 {color: blue;
         font-size: 150%;
        }
+}
+
+.parte1 {border-color: blue;
+         border-style: double;
+         border-left: 6px;
 }
